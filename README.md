@@ -1,4 +1,4 @@
-## Hallo, leute! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hallo, leute! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
 - 👋 Hi, I’m Rajat Chaudhari, Information Technology Undergraduate (Batch of 2022).
 - 👀 I’m interested in Data Science, Building Web Applications, and just about everything else in general😁
