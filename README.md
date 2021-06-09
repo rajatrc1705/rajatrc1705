@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science concepts and gaining more experience in this field.
 - 📫 How to reach me - You can reach me at rajatrc1705@gmail.com !
 
-I am Kaggling frequently now a days, you can find me [here](https://www.kaggle.com/rajatrc1705)!
+I am active on Kaggle now a days, you can find me [here](https://www.kaggle.com/rajatrc1705)!
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rajatrc1705&theme=tokyonight" />
 <br><br>
