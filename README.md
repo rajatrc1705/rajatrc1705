@@ -1,6 +1,6 @@
 <h1 align="center">Hallo leute! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
-- 👋 Hi, I’m Rajat Chaudhari, Information Technology Undergraduate (Batch of 2022).
+- 👋 Hi, I’m Rajat Chaudhari, MS in Data Science, LMU Munich (2022 - 2024).
 - 👀 I’m interested in Data Science, Building Web Applications, and just about everything else in general😁
 - 🌱 I’m currently learning Data Science concepts and gaining more experience in this field.
 - 📫 How to reach me - You can reach me at rajatrc1705@gmail.com !
