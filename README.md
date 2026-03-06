@@ -7,8 +7,8 @@ If you want to follow my journey, you can find me on [Twitter](https://twitter.c
 I am also on Kaggle, you can find me [here](https://www.kaggle.com/rajatrc1705)!
 
 I am currently building:
-- [Loan Onboarding Agent](https://github.com/rajatrc1705/Loan-Onboarding-Agent)
-- [Property Coordinator](https://github.com/rajatrc1705/ProCo)
+- [Loan Onboarding Agent](https://github.com/rajatrc1705/Loan-Onboarding-Agent) (inactive rn)
+- [Property Coordinator](https://github.com/rajatrc1705/ProCo) (inactive rn)
 
 I am also a data scraping enthusiast. [My Kaggle datasets](https://www.kaggle.com/rajatrc1705/datasets) have over 90k+ views and about 10k+ downloads. 
 
