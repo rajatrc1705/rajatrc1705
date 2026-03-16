@@ -10,7 +10,7 @@ I am currently building:
 - [Loan Onboarding Agent](https://github.com/rajatrc1705/Loan-Onboarding-Agent) (inactive rn)
 - [Property Coordinator](https://github.com/rajatrc1705/ProCo) (inactive rn)
 
-I am also a data scraping enthusiast. [My Kaggle datasets](https://www.kaggle.com/rajatrc1705/datasets) have over 90k+ views and about 10k+ downloads. 
+I also love data scraping. [My Kaggle datasets](https://www.kaggle.com/rajatrc1705/datasets) have over 90k+ views and about 10k+ downloads. 
 
 <!---
 rajatrc1705/rajatrc1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
